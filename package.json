@@ -1,0 +1,11 @@
+{
+  "name": "phonetic-alpha",
+  "version": "1.0.0",
+  "description": "A Node module that produces phonetic text based on nato, western or morse words",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jim Carter <jcarter62@gmail.com>",
+  "license": "ISC"
+}
